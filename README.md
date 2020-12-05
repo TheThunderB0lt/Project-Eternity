@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can preview the whole project at **https://algo-vis.netlify.app/**
+
+(Note : This is Login Testing Account Credentials)
+
+```email-id : test@gmail.com```
+
+```password : password```
+
 ## Available Scripts
 
 In the project directory, you can run:
