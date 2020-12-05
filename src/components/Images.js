@@ -24,7 +24,7 @@ export default function Images() {
     <section>
       <div className="flex justify-center text-center my-10">
         <h1 className="my-10 text-6xl uppercase font-bold tracking-wider">
-          Picturesque
+          Picturesque Shots
         </h1>
       </div>
       <div className="my-5">
